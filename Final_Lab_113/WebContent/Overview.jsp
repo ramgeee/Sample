@@ -3,7 +3,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <style>
-<style>
 h1 {font-family: verdana}
 h1 {text-align: center;}
 h1{font-size: 650%}
@@ -21,15 +20,6 @@ p{color: maroon}
 p{font-style: verdana}
 p{text-align: center}
 
-
-input[type="submit"]{
-background-color: #555;
-color: #fff;
-border-radius: 10px;
-}
-
-
-
 a:link    {color:black; background-color:transparent; text-decoration:none , font-family: verdana; font-size: 300%}
 a:visited {color:red; background-color:transparent; text-decoration:none}
 a:hover   {color:red; background-color:transparent; text-decoration:underline}
@@ -41,19 +31,9 @@ a{font size: 300%}
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>iStudent 2</title>
+<title>Insert title here</title>
 </head>
 <body background = "http://wallpapercave.com/wp/HLy0ev6.png">
-
-<h1>iStudent</h1>
-
-<form action= "Overview.jsp" method="post">
-<input type= "submit" value = "Overview" >
-</form>
-
-<form action= "Assignment.jsp" method = "post">
-<input type ="submit" value ="Assignments">
-</form>
 
 
 </body>
