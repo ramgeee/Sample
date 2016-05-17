@@ -23,18 +23,12 @@ h3{color: black}
 <body background = "http://wallpapercave.com/wp/HLy0ev6.png">
 
 <h1>iStudent</h1>
-
-
 <h3>Login in</h3>
+
 <form action="iStudent2.jsp" method="post">
  <br/>Username:<input type="text" name="username"> 
  <br/><br/>Password:<input type="password" name="password">
  <br/><input type="submit" value="Submit"> </form>
-
-
-
-
-
 
 </body>
 </html>
